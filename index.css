@@ -30,9 +30,9 @@
     color: crimson;
 }
 .shoes_product button{
-    width: 48.5%;
+    width: 100%;
     margin-top: 5px;
-    padding: 6px 0px;
+    padding: 10px 0px;
     background-color: transparent;
     border: 1px solid blue;
     border-radius: 5px;
